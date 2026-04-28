@@ -18,7 +18,7 @@ _Turning ideas into real products — one commit at a time_
 
 I'm a Computer Science & Engineering student based in Mekelle, Ethiopia, with a focus on frontend development and building things that are actually useful. I enjoy turning rough ideas into polished, working products — whether that's a client site, a productivity tool, or a micro-SaaS.
 
-- 🔨 Currently building **Mini Storefront Builder** — a tool for small businesses to create shareable one-page product showcases
+- 🔨 Currently building **landing pages for local businesses** — a tool for small businesses to make their business discoverable
 - 📚 Studying data structures & algorithms (and enjoying it more than I expected)
 - 🌍 Delivered a real client project for a consulting firm in Addis Ababa
 - 🎯 Goal: ship products that solve real problems for real people
