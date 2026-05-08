@@ -55,6 +55,8 @@ I'm a Computer Science & Engineering student based in Mekelle, Ethiopia, with a 
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalabGoitom&layout=compact&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=kalabGoitom&theme=dark)
+
 </div>
 
 ---
