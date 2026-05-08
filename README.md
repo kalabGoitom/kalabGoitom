@@ -51,9 +51,9 @@ I'm a Computer Science & Engineering student based in Mekelle, Ethiopia, with a 
 
 <div align="center">
 
-![Kalab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalabGoitom&show_icons=true&hide_border=true&theme=default&hide=stars)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalabGoitom&layout=compact&hide_border=true&theme=default)
+![Kalab's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kalabGoitom&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalabGoitom&layout=compact&hide_border=true)
 
 </div>
 
