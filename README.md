@@ -8,7 +8,7 @@ _Turning ideas into real products — one commit at a time_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalab-goitom-6055a03b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Mekelle%2C%20Ethiopia-ET-green?style=flat)](#)
+[![Location](https://img.shields.io/badge/Mekelle%2C%20Ethiopia-ET-green?style=flat)](https://maps.google.com/?q=Mekelle,Ethiopia)
 
 </div>
 
