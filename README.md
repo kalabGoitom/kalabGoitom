@@ -2,7 +2,7 @@
 
 # Hey, I'm Kalab 👋
 
-**CS & Engineering student · Frontend Developer · Builder**
+**Computer Science and Engineering student · Frontend Developer · Builder**
 
 _Turning ideas into real products — one commit at a time_
 
