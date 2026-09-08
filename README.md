@@ -21,7 +21,6 @@ I'm a Computer Science & Engineering student based in Mekelle, Ethiopia. I focus
 
 - 🔨 Currently building a **digital restaurant menu system** and tools for local businesses
 - 📚 Deepening my knowledge of Data Structures & Algorithms
-- 🌍 Delivered a real client project for a consulting firm in Addis Ababa
 - 🎯 Goal: ship products that are useful to real people
 
 ---
@@ -52,7 +51,6 @@ I'm a Computer Science & Engineering student based in Mekelle, Ethiopia. I focus
 | **NOVA Store** | Modern e-commerce frontend with cart, auth simulation, product filtering & checkout flow | React · Vite · React Router | [Repo](https://github.com/kalabGoitom/Nova) · [Live](https://nova-store-v1.vercel.app/) |
 | **Expense Tracker API** | RESTful API with JWT auth, Zod validation, and income/expense tracking | Node · Express · Prisma · PostgreSQL | [Repo](https://github.com/kalabGoitom/expense-tracker-api) |
 | **TaskFlow** | Sleek task manager with priorities, filters, dark mode & localStorage | HTML · CSS · JavaScript | [Repo](https://github.com/kalabGoitom/TaskFlow) · [Live](https://taskflow-green-two.vercel.app/) |
-| **HH Consulting** | Real client project — portfolio site for an engineering firm in Addis Ababa | HTML · CSS · JavaScript | [Repo](https://github.com/kalabGoitom/-HH-Consulting-Architects-and-Engineers-PLC.) |
 
 ---
 
